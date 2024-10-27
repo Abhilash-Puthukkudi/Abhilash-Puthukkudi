@@ -27,7 +27,6 @@ Currently focusing on **clean architecture** and **advanced Bloc patterns** to e
 
 ### 📊 GitHub Stats
 
-![Abhilash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhilash-Puthukkudi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilash-Puthukkudi&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Abhilash-Puthukkudi&theme=radical)
 
