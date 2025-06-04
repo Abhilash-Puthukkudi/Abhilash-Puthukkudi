@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Abhilash P.
 
 🔹 **Location:** Calicut, Kerala, India  
-🔹 **Role:** Flutter Developer  
-🔹 **Experience:** 2+ years  
+🔹 **Role:** Software Engineer  
+🔹 **Experience:** 3+ years  
 
 I’m a passionate Flutter developer with expertise in **API integration**, **state management with Bloc**, **Firebase**, **Supabase**, and **localization**. I love building impactful, user-friendly mobile applications and am always exploring the latest tools and best practices in mobile development.
 
